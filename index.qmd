@@ -1,11 +1,9 @@
 ---
-title: "esinickin.github.io"
+title: "Esin Ickin"
 ---
 
-This is a Quarto website.
+Hi y'all!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Esin a PhD student in the Beltran Lab at UC Santa Cruz.
 
-```{r}
-1 + 1
-```
+My research focuses on the population dynamics of northern elephant seals. On of my projects is focused on seasonal at-sea mortality rates across age and sex classes and how phenology might influence these rates.
